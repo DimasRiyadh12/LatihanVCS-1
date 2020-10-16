@@ -76,7 +76,7 @@ pada staging sebelum proses commit.
 # Commit (Menyimpan perubahan ke database)
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
 
-  ``git commit -m “komentar commit” $ git commit -m 'File pertama saya'``
+  ``$ git commit -m 'File pertama saya'``
 
 * Perubahan berhasil disimpan.
   
