@@ -80,7 +80,7 @@ pada staging sebelum proses commit.
 
 * Perubahan berhasil disimpan.
   
-   ![commit pertama](https://fajars.space/ngampus/pemrograman/git/img/4.png)
+   ![commit pertama](https://fajars.space/ngampus/pemrograman/git/img/4.1.png)
    
 # Membuat repository server
 * Server reopsitory yang akan kita gunakan adalah http://github.com, Anda harus membuat akun terlebih dahulu.
